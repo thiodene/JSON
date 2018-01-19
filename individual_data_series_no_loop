@@ -1,0 +1,19 @@
+{
+	"company_name": "Azarbod",
+	"first_name": "Serge",
+	"last_name": "Ayissi",
+	"street1": "1 Grosvenor Street",
+	"street2": "Suite 1105",
+	"city": "London",
+	"province": "ON",
+	"postal_code": "N6A 1Y2",
+	"phone": "15197198507",
+	"email": "serge@azarbod.com",
+	"ship_company_name": "Azarbod",
+	"ship_street1": "1 Grosvenor Street",
+	"ship_street2": "Suite 1105",
+	"ship_city": "London",
+	"ship_province": "ON",
+	"ship_postal_code": "N6A 1Y2",
+	"ship_phone": "15197198507"
+}
