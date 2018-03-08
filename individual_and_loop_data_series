@@ -1,0 +1,20 @@
+{
+  "bride_name": "Ms Jackson",
+  "groom_name": "Thiodene",
+  "groom_cell": "1416738423",
+  "items_leave_bombo": "Yes",
+  "items_leave_bombo_how_many": "4",
+  "items_leave_cntrpiece": "Yes",
+  "items_leave_cntrpiece_how_many": "3",
+  "items_leave_seat_card": "No",
+  "items_leave_busta_box": "No",
+  "items_leave_cake_lift": "Yes",
+  "items_leave_cake_lift_how_many": "1",
+  "items_leave_champ_flut": "No",
+  "items_leave_cake_top": "No",
+  "items_leave_menus": "Yes",
+  "items_leave_menus_how_many": "1",
+  "items_leave_other": ["serge","123","sss","grosse influence","PSG"]
+}
+
+#items_leave_other comes from a simple array of numbers and strings
