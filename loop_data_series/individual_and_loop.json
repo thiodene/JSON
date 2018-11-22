@@ -1,0 +1,16 @@
+{
+"company":
+{"company_name":"Procems Asia-Pacific Pte Ltd",
+"city":"SINGAPORE, SINGAPORE",
+"timezones":["8","65"],
+"alarm_email":"victor@procems.com",
+"address":"Blk 9004 Tampines Street 93 #03-96 Singapore 528838 "
+},
+"aqi":[
+{"chemical":"NO2","parameters":["1","ppm","","","","","",""]},
+{"chemical":"SO2","parameters":["24","ppm","","","","","",""]},
+{"chemical":"PM1","parameters":["24","ug/m3","","","","","",""]},
+{"chemical":"PM2.5","parameters":["24","ug/m3","","","","","",""]},
+{"chemical":"PM10","parameters":["24","ug/m3","","","","","",""]}
+]
+}
